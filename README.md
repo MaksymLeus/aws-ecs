@@ -13,7 +13,7 @@
 ## Dependencies
 ---
 * In folder `./creads`  id_rsa for node (./modules/pub_keys)
-* If you using github link you need to create [ ./creads folder and add id_rsa & update public rsa in ./modules/pub_keys/id_rsa.pub ]
+* If you using github link you need to update [ public rsa in ./modules/pub_keys/id_rsa.pub ]
 
 ## Specific configuration stored in `main.tfvars` file
 ___
